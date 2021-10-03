@@ -1,16 +1,12 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Keep%20Studying!&fontSize=90&animation=fadeIn)
 
-<!--
-**LSH0809/LSH0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👋 Hi I...💬
+---
+- am Suhyeong Lee! 😄
+- want to be a Backend Developer. 🌱
+- am studying for Java/Spring.📕
+- make much of Teamwork. 👯
+- record daily studying in my Blog [Retrospect](https://today-retrospect.tistory.com/). 📜
+ 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSH0809&show_icons=true&theme=material-palenight)
