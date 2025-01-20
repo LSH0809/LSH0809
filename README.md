@@ -6,7 +6,6 @@
 - want to be a Backend Developer. 🌱
 - am interested in Java/Spring.📕
 - make much of Teamwork. 👯
-- record daily studying in my Blog [Retrospect](https://today-retrospect.tistory.com/). 📜
  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LSH0809&show_icons=true&theme=material-palenight)
